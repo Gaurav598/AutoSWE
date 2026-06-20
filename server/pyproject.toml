@@ -4,6 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "autoswe-server"
+authors = [{name = "Gaurav"}]
 version = "1.0.0"
 description = "AutoSWE — Autonomous Software Engineering Agent (Python backend)"
 requires-python = ">=3.10"
